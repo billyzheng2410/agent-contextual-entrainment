@@ -1,0 +1,542 @@
+[
+  {
+    "path": "notebooks/agent_entrainment_conflict_v4_generalization_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "a209f52c5281a257e28fce752c55f99257c6a1e81aea9a516edb2019d3f3d047",
+    "english_sha256": "fe437f9425fc7040d4099d45f223c0f776f3d050aa5ef7fdbc5a6ed661d0f3f9",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 33,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_conflict_v5_protocol_actions_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "f652db4d9cfb84cd57b542d5c7ecaa9c9a9cdbb00417fef545d8e9b2b7ab8683",
+    "english_sha256": "397646358d3e1bc3889d77fa43409fbe78084fbfdef210649405f4144639bf1f",
+    "original_cells": 28,
+    "cells": 29,
+    "outputs": 41,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab.ipynb",
+    "source_group": "drive",
+    "original_sha256": "e0d6f488c496892ed0f8150b8fd4f0a62cb4378cdc43c2864e3a0ba479090e7a",
+    "english_sha256": "a826d253d416148f154a04c1a0976cce9d8270c8955da2725eb5c0f4582cfe88",
+    "original_cells": 44,
+    "cells": 45,
+    "outputs": 2,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_behavioral_v2_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "e1b4409d022805b55c9166cf5c7ba5e431e6e3498438348b4d4793052d38965b",
+    "english_sha256": "a91362b4a624728c0ace4cdba88144b85637fdaa2eacff67e28573dd39ee682c",
+    "original_cells": 52,
+    "cells": 53,
+    "outputs": 112,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_conflict_v3_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "220bf26101b952d598124985dbc3e1c12a0b53e38dab5703ca9ea7670f6cf614",
+    "english_sha256": "1a900c7d237c7b185a7c5c5f62f6b75f881c6431152e31761262caa7c3120c37",
+    "original_cells": 48,
+    "cells": 49,
+    "outputs": 103,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_fixed.ipynb",
+    "source_group": "drive",
+    "original_sha256": "5bc039c74b213c4b91cf6a06a5913fb5e5d57c2b6f304850d57b2fe568ab5cac",
+    "english_sha256": "740eedb96012f02bb92909cbca22b80d13d124ff5b7d16ef43ccf4581b196d5d",
+    "original_cells": 44,
+    "cells": 45,
+    "outputs": 2,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_layered_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "a0ecdfc945cfa983da4fcd32776cdb69875822024a6c868bee2654565c53dd66",
+    "english_sha256": "1bd5a2f270636a4e0e18bb5d645d1ed3ca437aae8a46a803a58c02f6cba9d88e",
+    "original_cells": 44,
+    "cells": 45,
+    "outputs": 41,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_python313.ipynb",
+    "source_group": "drive",
+    "original_sha256": "a5a726612f1d49a031a63c735dda8ce708284bc17e9acb1f2812c0152268391c",
+    "english_sha256": "96d52be885764b2610fa04ba49f14178e2b9639479e0c71f92e3e21d717c26b4",
+    "original_cells": 45,
+    "cells": 46,
+    "outputs": 16,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_python313_reviewed_v4.ipynb",
+    "source_group": "drive",
+    "original_sha256": "35bc8cb596a43ed5e85f691b61a4881ae60f1e6a0b77e20c84771be43f440a7e",
+    "english_sha256": "2a985e8372125dd0cde8bf8a998ceacf0b879af0c9417fcd9fd58cc80dec4de6",
+    "original_cells": 44,
+    "cells": 45,
+    "outputs": 29,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_python313_reviewed_v4__1eDqht5B.ipynb",
+    "source_group": "drive",
+    "original_sha256": "86719599d2a08307b6e7b831a095278377ce406dd076fb492bf0748b4cb24463",
+    "english_sha256": "20c520dfd6ff7336dcbc11713aea5f2206d56c903bab5f5d75c8758cdbdca9f2",
+    "original_cells": 44,
+    "cells": 45,
+    "outputs": 11,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6_shared_heads_pilot_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "62985f57e41a5e268724c3cb6668d90ae59180d1753ec74e7df7dc542b05316a",
+    "english_sha256": "ae57d8999d4051035646eafa15f461b70f60f6e72393f54658e58ddf319921cc",
+    "original_cells": 28,
+    "cells": 29,
+    "outputs": 36,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p1_aligned_sku_followup.ipynb",
+    "source_group": "drive",
+    "original_sha256": "f2baef678b66a9275f4eebc1ccf6c315e83ce066e973d4483405f798982eab4e",
+    "english_sha256": "efa10fcba3dc0e67d635666b1625bd7656954176ecc8bfa73f53e0a17f83b005",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 25,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p1_local_top10.ipynb",
+    "source_group": "drive",
+    "original_sha256": "0fff127941f8c6a10c11f660eeb5dcb862b83012c9963068ac0cb511faa97f7d",
+    "english_sha256": "09a6e79f95d90a15b39a056ba41f18202ad66963b471ded1af2ff4cd92dd3d98",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 24,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p2_local_top80.ipynb",
+    "source_group": "drive",
+    "original_sha256": "302f0561414cc412c87cba8cb7fd84cf087b7d7151a6323df44557d4fce8bc0f",
+    "english_sha256": "5dcf9ac45d7a94ca7963e2ecaf6f9da6605ed696800edf4b4b0e7eee1c72b000",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 26,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p3_confirm96_recovery_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "98a73e3f8a7e78a28d7d5e3b59f4e756cba7f5943c5e08919448e09d393ca1bd",
+    "english_sha256": "7378e4f37ac3de43a22853033b20b49439314e65eec295e840e3869f2d7b8459",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 23,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p4_heads_AB_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "8450b7e2e4350eee5e0536dae70bf5ac38384dc17552669c589a1f99826cf919",
+    "english_sha256": "7243afa0ffc75a5b84f1719f19adfe96b079ae438f69aea68185498129808e06",
+    "original_cells": 27,
+    "cells": 28,
+    "outputs": 25,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p5_recovery_confirm96_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "ea345662619c4257d9a2082a0f3f79e4a3652109f6aac586936e05a6223b2ef7",
+    "english_sha256": "30f0007cc85de53e2ebe4ae9088f67b918b6ce482dc7afe226a0810e6b1a46d0",
+    "original_cells": 27,
+    "cells": 28,
+    "outputs": 23,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p6_strong_native_tools_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "df09e5637361ba45c00582cefb3c43cc11502e88de9f176e75e198869cb6b1a2",
+    "english_sha256": "aeb8ef0122a43a07537b399837f8966a947774f0836b6a8c8c8cfb8d9ae53f3e",
+    "original_cells": 16,
+    "cells": 16,
+    "outputs": 7,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p7_gpt_text_protocol_bridge96.ipynb",
+    "source_group": "drive",
+    "original_sha256": "b264afa601293145de5f47b6f88735d8febffab84c09a2281d0d66a6fa657a66",
+    "english_sha256": "319190ff007956af4b929b7a23b02e9186c0370b64f8746dd7834a90246683a3",
+    "original_cells": 15,
+    "cells": 15,
+    "outputs": 3,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p8_identity_patch48_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "f488c38dd9fcd06cc9d81e929adea63015aab215dd3d5a71f5e69b37490baae6",
+    "english_sha256": "045ddb473cab8138ae791c3352d53c3f1343eda7c7aca88c3d44cc05be882fa5",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 21,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+    "source_group": "drive",
+    "original_sha256": "1c02705f41032bb19a61537833aa094cbf2ce749387204b7c662a176fc8879dd",
+    "english_sha256": "554366394fe12d3dc9f2375083622fa95235c14d37bc877c5123b7255ab6ad74",
+    "original_cells": 35,
+    "cells": 36,
+    "outputs": 35,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v7p1_fast24_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "b7f2de9d70b97bf0ce42fcb1b64ff5423223c45c2d2c845505ae386d008fd7d3",
+    "english_sha256": "c71600944b26288fb995ea85e862197470e3335f5076a48fece52d8ae48fea41",
+    "original_cells": 37,
+    "cells": 38,
+    "outputs": 40,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v7p2_protocol_diag8_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "c3c6e5ddadc52f5797802c6189841d975065dbef70c50f8e3ed55938c7194c01",
+    "english_sha256": "2ddf7fe5189e928f8832d09369ee78927ceb66f5a79e8cfbffedff33dcae3c9d",
+    "original_cells": 12,
+    "cells": 13,
+    "outputs": 33,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v7p3_execution_mechanism_full.ipynb",
+    "source_group": "drive",
+    "original_sha256": "76fc2b17d1fe8ed9dce453c17165287dc1c7429b8d3e3e4b961dd30c993180e0",
+    "english_sha256": "80f018ac2115875d9fbf8660fce433f1fc7c5bb947e938b24704c3e8b34d77dd",
+    "original_cells": 12,
+    "cells": 13,
+    "outputs": 37,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_conflict_v4_generalization_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "a8219d815ba3b20b6089686361c1246bcea963c2ff15e6e4f88063d47ade561b",
+    "english_sha256": "5887d022ec23752a202da8301bcaf19447e3850e1e133b561acfbdcb0be8b6aa",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_conflict_v5_protocol_actions_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "5a683887d62bd13ba06fca3caa6183922c4d502483305cdcf82ffb1b01b6c6be",
+    "english_sha256": "0edddb1f3715101ada56655c4c28c5cbedc5b6cd7341069c5abbf263bd9cb336",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_conflict_v5p1_protocol_actions_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "816e782f5ad2dab7ddac4effd8c35051ac0a6ec7487b419635f45a0f858265d8",
+    "english_sha256": "96e7074bb40f719d34225bcde588c6298f30cf08cb4265aa3125f6a3c0203352",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_memory_colab_conflict_v3_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "d22d47bf4260e9d3769800436109e236106b884fc6d12b8ae0d9c7acaeebbb88",
+    "english_sha256": "53d84cfa82ab4ecd30389a6abc9cff469083d75327b8e384701477fcf15a0a3a",
+    "original_cells": 43,
+    "cells": 44,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6_shared_heads_pilot_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "3bb825e50b8769a2fbad876aac84c4157148e844a44baca1ea908433b54369f3",
+    "english_sha256": "1a3e9f547776bcacc5147b6c393b2590b642b71c71671e09cc1eb17b4fc0a129",
+    "original_cells": 27,
+    "cells": 28,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p1_aligned_sku_followup.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "b47838c03bf1c56a12c0abf9433ebd70ce922c32918abfdd4ecb4a17dac7e179",
+    "english_sha256": "0f4588139ca71b9ccaf7963f58798639309cca1048e5bda2fcfd7e20f1aaaee2",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p1_local_top10.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "382e6e1700357612003abdf5e92b3fc4638ea62eba7674e11530f23788a4867a",
+    "english_sha256": "0b03caa783a251667084b0ba3bc495b5d89e1bee825d18a9e55a316dc2ddc34c",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p2_local_top80.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "25eaa3c512ec39a8a9f910cbfff1f8f1d9a9acce8e37716ed0cd9414e4c6b4f8",
+    "english_sha256": "0a428d02ec518aa3bc6074df6329b8de49d2d963499b13c79e2a63ee93c83dbb",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p3_confirm96_recovery_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "cc271197d0ca0a842c886ee9c4e4a1341f7bb1f19ba796ded06bd7edfe95dd25",
+    "english_sha256": "80656d86b4a24c34def57c539755888b0256439af2898f423e493079b540a846",
+    "original_cells": 24,
+    "cells": 25,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p4_heads_AB_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "9944bfcf87385518be1663c96a838792e085058a8ae21cf03f4c93cae5c065eb",
+    "english_sha256": "c5a21ba47c2a3abae67fab7415119616d649dae45b56dc45345b257b1af1a5c9",
+    "original_cells": 27,
+    "cells": 28,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p5_recovery_confirm96_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "71d9e4dc5b87e3440b1721f599405d9e4e57cb2647454f2b4502e62cadc3e165",
+    "english_sha256": "2ab4173f9642bdfbd54b0d69a68b4cb8995c387e335fd325187e74fa78a81257",
+    "original_cells": 27,
+    "cells": 28,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p6_strong_native_tools_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "bf966ac708968450f4cedb1ab5013258ae91aef43c09afd787d29ce63fb384f7",
+    "english_sha256": "6fc2a138df95c750edd894ffe295d8dfa5191f1ca88c745ef03be2de045f4487",
+    "original_cells": 15,
+    "cells": 15,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p7_gpt_text_protocol_bridge96.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "aa33fb8449bf65279f1abb3324b85071ab885d75c1273433dce4276e880347b2",
+    "english_sha256": "6d231f42ce8643097ab05c3c221f8fdd5c276282e32cf9c8b5c58e710b4616d8",
+    "original_cells": 15,
+    "cells": 15,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v6p8_identity_patch48_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "45b2d8f469ac79f21af94377c7d65d4531beb8cf674e0150cf39a6f60b80c74e",
+    "english_sha256": "0cc57d23ab84bc0201066ade29d15e9ee966a6e7f9dd006524496140b4e7a095",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v6p9_semantic_routes_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "55afeea8dfe32dd408f0ee7927b4e5df90321847b8892abb85811ae228b3b189",
+    "english_sha256": "c866a97ab1a73fc6750c61fb7550bcfe2ff7cbe8587200aeebc73c3ca3f8e021",
+    "original_cells": 28,
+    "cells": 29,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_v7p0_mechanism_confirm96_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "84ee6bb79b37fbc63700af439ddb7fb88040b72155833946b2b7297d3a7179fc",
+    "english_sha256": "f356c1eb8a366bb620ec932d462d50f5d2380318c1e6b3c3b8a22ac533bad9bd",
+    "original_cells": 28,
+    "cells": 29,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "6f6dcf97494f04a6b80b9b058bb0404688e6c7d9f089479dc6193bee55f9f61e",
+    "english_sha256": "76734bb7f6774695934b9e7be18bd1b09f7a4787e77bc1aa7fd7ba3d6e090a89",
+    "original_cells": 35,
+    "cells": 36,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v7p1_fast24_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "fbef2e10051f607a2a415b703f4d18957feb44230033880f2a42cf22fdb3ebec",
+    "english_sha256": "46aa821005e8bd58a4d18d3271ba479be16a6786b3f8343840a47fa8a0f9a823",
+    "original_cells": 37,
+    "cells": 38,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v7p2_protocol_diag8_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "16d042cd52a7109ae90b786d51e3ab5c44c65caab9b4f1fa3e3ffa7575681f56",
+    "english_sha256": "5c619c5164a2084a57b95674cfefe84c17f6a03919c1636272b36815ee113cd6",
+    "original_cells": 12,
+    "cells": 13,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "snapshots/prepared/agent_entrainment_v7p3_execution_mechanism_full.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "dc41084a25c4ae5a04c2f91ff5e6dc21d2e4519a6f235aa3a5f86711ac32dda5",
+    "english_sha256": "b3c60feafa9ee3ebdd9e6d61c478f900bebfbc95d2d17774dcc63c5ff9f1f4c8",
+    "original_cells": 12,
+    "cells": 13,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/conflict_v3_generalization_v1_append.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "2ccb5dae8fbee34107370a6b6f3fd68367ae4b844ac08507997bd71ff321be0e",
+    "english_sha256": "17ad786a2e48ce0b31cbaa9200ec2cd4f5bc5f81b4710915503a770328d15aca",
+    "original_cells": 9,
+    "cells": 9,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/conflict_v5_protocol_actions_append.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "a8e2505b53166080a2f0d11573af228150f2f387f3dfac73c9ff960a071aa7be",
+    "english_sha256": "093d5b7157b0ae0daaa5c6a4c935bea4a52bcb7e193f64e4a2ce2bd603ddbd99",
+    "original_cells": 8,
+    "cells": 9,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/conflict_v5p1_protocol_actions_append.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "11012f655055fe2a60063f62e67e31e7a3a07ff12957d8d3e2de090d3eb23f17",
+    "english_sha256": "6bd341695f016bcd9204036e8afec352f14d4974cd7f8182d01ce5eb82974eb3",
+    "original_cells": 8,
+    "cells": 9,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/v6p6_responses_medium_FULL_USD10.ipynb",
+    "source_group": "prepared",
+    "original_sha256": "9203379acd5aac9e1a3e56f68f28d0603b5eb8a77f35347269f05000126d7dee",
+    "english_sha256": "a53fa25abd8f06af69eb4033d32ce499478d72328c7f3a0132054521c78d4f61",
+    "original_cells": 15,
+    "cells": 15,
+    "outputs": 0,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_conflict_v4_generalization_full (1).ipynb",
+    "source_group": "local",
+    "original_sha256": "bdd4f2dfd4b85cf7059ef7a9ed7a0b4bc2cb976999c6d160aea048fd7c37162d",
+    "english_sha256": "5fc0f1681159de69657cc1afc0cfdf2928ce219cfd4b0548329189fc9521a983",
+    "original_cells": 25,
+    "cells": 26,
+    "outputs": 33,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_conflict_v5_protocol_actions_full (1).ipynb",
+    "source_group": "local",
+    "original_sha256": "2718c7cbf77cb5026e4cac5c25b1750407d90b72c2d6c97d410d125094ef5296",
+    "english_sha256": "5b97b145e0df56595ea64c7529e05530a6884502cf2645e6657cc91c771f0335",
+    "original_cells": 28,
+    "cells": 29,
+    "outputs": 41,
+    "images": 0
+  },
+  {
+    "path": "snapshots/local/agent_entrainment_memory_colab_behavioral_v2_full.ipynb",
+    "source_group": "local",
+    "original_sha256": "25c25f1977a5bad6a30be73ddf3a834a24a9e18e8baf9f182302222f4bcfc239",
+    "english_sha256": "881601ae1107d183948c57d3a35dce7a14739c7ae0d87efb232385f5d5663e90",
+    "original_cells": 52,
+    "cells": 53,
+    "outputs": 112,
+    "images": 0
+  },
+  {
+    "path": "notebooks/agent_entrainment_memory_colab_conflict_v3_full (1).ipynb",
+    "source_group": "local",
+    "original_sha256": "3776735c9a92f36bb37bbf5091cd52be9ec98e11709cb26d98c08d6f46835361",
+    "english_sha256": "b736292b2ae092e9e971baa9f227ac7430d784b8717d5d6ade377b8de02a56ac",
+    "original_cells": 43,
+    "cells": 44,
+    "outputs": 65,
+    "images": 0
+  },
+  {
+    "path": "snapshots/local/agent_entrainment_memory_colab_layered_full.ipynb",
+    "source_group": "local",
+    "original_sha256": "cb2df804f3b7cffa68f81143ecc0facd10ba1e1225601160dca4c699fff36814",
+    "english_sha256": "d6a5a900c8e91f3d8c85e86851b2acd0ea136476cddf8abb137db2341d3f28f4",
+    "original_cells": 44,
+    "cells": 45,
+    "outputs": 41,
+    "images": 0
+  },
+  {
+    "path": "snapshots/local/agent_entrainment_v6p6_strong_native_tools_full.ipynb",
+    "source_group": "local",
+    "original_sha256": "496d64b6051b07ec0f0695a289e16779804f377344c3f0530a14d7ad8939d850",
+    "english_sha256": "3396d6ec80cc0cfe8e40c1b4b55ea465b35073626b8d6939a6fc00e07ff2ddb4",
+    "original_cells": 14,
+    "cells": 14,
+    "outputs": 0,
+    "images": 0
+  }
+]

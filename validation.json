@@ -1,0 +1,85 @@
+{
+  "notebooks": 54,
+  "output_blocks": 1040,
+  "execution_counts_preserved": true,
+  "nontext_output_data_preserved": true,
+  "code_structure_preserved": true,
+  "python_cells_checked": 1005,
+  "historical_non_python_or_invalid_cells": 4,
+  "decoded_payloads_checked": 286,
+  "changed_payload_hashes_checked": 116,
+  "embedded_python_checked": 245,
+  "chinese_text_matches": 0,
+  "credential_pattern_matches": 0,
+  "new_model_experiments_run": false,
+  "translation": "Offline machine-assisted translation with manual technical corrections and editorial review of the latest notebook. Historical outputs are not rerun.",
+  "status": "PASS",
+  "nbformat_validated": 54,
+  "colab_output_extensions_preserved_in_cell_metadata": [
+    {
+      "path": "notebooks/agent_entrainment_memory_colab.ipynb",
+      "cell": 4,
+      "output": 0,
+      "moved_fields": [
+        "errorDetails"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_memory_colab_conflict_v3_full.ipynb",
+      "cell": 47,
+      "output": 0,
+      "moved_fields": [
+        "metadata"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_memory_colab_conflict_v3_full.ipynb",
+      "cell": 47,
+      "output": 18,
+      "moved_fields": [
+        "metadata"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+      "cell": 26,
+      "output": 3,
+      "moved_fields": [
+        "metadata"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+      "cell": 26,
+      "output": 5,
+      "moved_fields": [
+        "metadata"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+      "cell": 26,
+      "output": 17,
+      "moved_fields": [
+        "metadata"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+      "cell": 26,
+      "output": 27,
+      "moved_fields": [
+        "metadata"
+      ]
+    },
+    {
+      "path": "notebooks/agent_entrainment_v7p0_with_v6p9_supplement.ipynb",
+      "cell": 26,
+      "output": 29,
+      "moved_fields": [
+        "metadata"
+      ]
+    }
+  ],
+  "hashes_use_actual_archive_bytes": true
+}
